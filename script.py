@@ -299,3 +299,14 @@ def int_to_str(number):
         output.append('dollars')
 
     return ' '.join(output)
+    
+    
+    
+    
+    
+
+
+
+    #added line 310 from online nBobby tool
+    
+    
